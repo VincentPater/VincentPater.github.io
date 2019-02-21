@@ -1,0 +1,34 @@
+body {
+	/* default style */
+	background: #999;
+	
+	font-family: serif;
+}
+
+h1 {
+	/* exceptions to default for header 1 */
+	color: #444;
+}
+
+h2 {
+	/* exceptions to default for header 2 + 3 */
+	background: #777;
+	color: white;
+}
+
+h3 {
+	/* exceptions to default for header 2 + 3 */
+	background: #777;
+	color: white;
+	padding: 0px 15px;
+} 
+
+a {
+	/* Hyperlinks */
+	color: lightblue;
+}
+
+p {
+	/* Pararaphs */
+	padding: 0px 20px;
+}
